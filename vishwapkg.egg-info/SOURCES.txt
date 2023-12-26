@@ -1,9 +1,0 @@
-setup.py
-vishwapkg/__init__.py
-vishwapkg/module1.py
-vishwapkg/module2.py
-vishwapkg.egg-info/PKG-INFO
-vishwapkg.egg-info/SOURCES.txt
-vishwapkg.egg-info/dependency_links.txt
-vishwapkg.egg-info/requires.txt
-vishwapkg.egg-info/top_level.txt
