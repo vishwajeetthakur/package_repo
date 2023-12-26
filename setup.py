@@ -11,7 +11,7 @@ setup(
     packages=['vishwapkg'],
     install_requires=['numpy',
                       'pandas',  
-                      'dotenv'                   
+                      'python-dotenv'                   
                       ],
 
     classifiers=[
