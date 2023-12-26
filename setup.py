@@ -10,7 +10,8 @@ setup(
     license='BSD 2-clause',
     packages=['vishwapkg'],
     install_requires=['numpy',
-                      'pandas',                     
+                      'pandas',  
+                      'dotenv'                   
                       ],
 
     classifiers=[
