@@ -21,8 +21,5 @@ class Demo:
 
         print(f"Folder '{folder_name}' and file '{file_name}' created successfully.")
 
-obj = Demo()
-
-obj.make_folder_and_file()
 
         
